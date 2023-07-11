@@ -2,9 +2,8 @@
 #
 soon.. (I don't have time to do it rn)
 
-<meta name="google-site-verification" content="UNmqu79r5-qMCbFa35_48Lxj0brSdElydwJ62a8Av3Y" />
 <!--
-**kreidtastic/kreidtastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kutsoji/kutsoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
